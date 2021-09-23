@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 // ignore: must_be_immutable
 class HomePage extends StatelessWidget {
   int days = 30;
-  String name = "codepur";
+  String name = "SKAPS";
 
   @override
   Widget build(BuildContext context) {
